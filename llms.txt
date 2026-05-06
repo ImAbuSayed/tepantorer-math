@@ -10,17 +10,20 @@
 |-------|---------|
 | Title | Tepantorer Math |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tepantorer-math/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Tepantorer Math](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Music Licensing for Tepantorer Math](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> তেপান্তরের মাঠে আমার শূন্য লাগে খুব
+> তোমার চোখের অতল জলে দিতে চাই আজ ডুব
+> বুকের ভেতর আগুন জ্বলে, তৃষ্ণা যে না মেটে
+> এই বিরহের রাত আমার তোমার মাঝেই কাটে
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
